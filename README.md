@@ -1,2 +1,2 @@
 # py-voynich
-The Python SDK for The Voynich Manuscript, hosted on PyPi.
+The Python SDK & PyPi Library for The Voynich Manuscript.
