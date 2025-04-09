@@ -1,7 +1,0 @@
-README.md
-setup.py
-py_voynich.egg-info/PKG-INFO
-py_voynich.egg-info/SOURCES.txt
-py_voynich.egg-info/dependency_links.txt
-py_voynich.egg-info/requires.txt
-py_voynich.egg-info/top_level.txt
