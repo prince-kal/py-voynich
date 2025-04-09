@@ -1,5 +1,7 @@
+LICENSE
 README.md
 setup.py
+voynich/__init__.py
 voynich.egg-info/PKG-INFO
 voynich.egg-info/SOURCES.txt
 voynich.egg-info/dependency_links.txt

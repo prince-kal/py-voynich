@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='voynich',  
-    version='1.0.0',  
+    version='1.0.1',  
     author='Kal D. Abali', 
     author_email='prince@merlinfinancial.tech',  
     description='The Python SDK for The Voynich Ledger',  
