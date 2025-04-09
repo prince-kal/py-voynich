@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
-Name: py_voynich
-Version: 1.0.1
+Name: py-voynich
+Version: 1.0.2
 Summary: The Python SDK for The Voynich Ledger
 Home-page: https://github.com/prince-kal/py-voynich
 Author: Kal D. Abali
